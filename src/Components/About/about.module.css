@@ -1,0 +1,15 @@
+
+.aboutinfo {
+    background-color: rgb(137, 196, 207) !important;
+    display: flex;
+    justify-items: center;
+    justify-content: space-between;
+    padding-top: 3px !important;
+
+}
+
+.aboutinfo a:hover {
+    background-color: red;
+    text-decoration: none;
+    list-style: none;
+}
