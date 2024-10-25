@@ -1,0 +1,16 @@
+.Gibs {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3px;
+    margin: 2px;
+    color: white;
+    border-radius: 6px;
+    background-image: url('../../assets/img/Study.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    height: 100vh;
+    width: 100%;
+}

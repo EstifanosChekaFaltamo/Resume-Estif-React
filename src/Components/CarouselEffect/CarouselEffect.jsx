@@ -40,8 +40,7 @@ function CarouselEffect() {
                             >
                         </div>
                         <p className={classes.lead}>
-                            I am experienced in leveraging agile frameworks to provide a robust
-                            synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
+                            "I am a passionate MERN stack developer with a strong foundation in full-stack web development. As a dedicated freelance worker, I consistently deliver high-quality projects with a focus on efficiency and user experience. My strengths lie in problem-solving, adaptability, and maintaining a high standard of work. I am fully committed to meeting client expectations and pushing the boundaries of what's possible in web development. Let's create something amazing together!"
                         </p>
                         <div className="social-icons pt-0 mt-0">
                             <a

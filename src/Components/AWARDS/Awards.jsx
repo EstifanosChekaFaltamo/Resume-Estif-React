@@ -1,4 +1,5 @@
 import React from 'react'
+import classes from "./awards.module.css"
 
 export default function Awards() {
   return (
@@ -7,7 +8,7 @@ export default function Awards() {
       {/* <!-- Awards--> */}
       <section className=" my-2 py-2" id="awards pt-2">
         <div className="resume-section-content my-2">
-          <h2 className="my-2">Awards & Certifications</h2>
+          <h2 className="my-2 mb-5 text-center fs-1" >Awards & Certifications</h2>
           <ul className="fa-ul mb-0">
             <li>
               <span className="fa-li"

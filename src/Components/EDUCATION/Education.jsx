@@ -1,13 +1,13 @@
 import React from 'react'
-
+import classes from "./education.module.css"
 export default function Education() {
   return (
     <>
       <hr className="m-0" />
       {/* <!-- Education--> */}
       <section className="" id="education">
-        <div className="">
-          <h2 className="mb-5 txt-center">Education</h2>
+        <h2 className="mb-5 text-center fs-1">Education</h2>
+        <div className={classes.Gibs}>
           <div
             className="d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="flex-grow-1">
